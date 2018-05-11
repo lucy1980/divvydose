@@ -1,0 +1,5 @@
+GITHUB_API_HOME = 'https://api.github.com/users/'
+BITBUCKET_HOME = 'https://api.bitbucket.org/2.0/repositories/'
+
+GITHUB,BITBUCKET = range(2)
+REPOS,FOLLOWER,STARS_RECEIVED,STARS_GIVEN,OPEN_ISSUE,COMMITS,ACCOUNT_SIZE,LAUGUAGES,TOPICS = range(9)
